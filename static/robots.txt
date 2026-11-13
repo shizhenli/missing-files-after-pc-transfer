@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://missing-files-after-pc-transfer.pages.dev/sitemap.xml
