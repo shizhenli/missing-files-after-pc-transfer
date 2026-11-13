@@ -1,7 +1,7 @@
 baseURL = "https://missing-files-after-pc-transfer.pages.dev/"
 languageCode = "en-us"
 title = "Missing Files After PC Transfer"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "missing-files-after-pc-transfer"
