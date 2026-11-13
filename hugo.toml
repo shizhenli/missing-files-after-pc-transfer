@@ -2,7 +2,9 @@ baseURL = "https://missing-files-after-pc-transfer.pages.dev/"
 languageCode = "en-us"
 title = "Missing Files After PC Transfer"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 [params]
+template_version = "v1.1.0"
 description = "Find and verify personal files missed by a Windows PC migration, without overwriting the source."
 category = "PC & Mac"
 source = "missing-files-after-pc-transfer"
